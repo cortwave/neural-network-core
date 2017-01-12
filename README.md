@@ -1,6 +1,8 @@
 # neural-network-core
 Core library for creating multilayer neural networks
 
+[![Build Status](https://travis-ci.org/cortwave/neural-network-core.svg?branch=master)](https://travis-ci.org/cortwave/neural-network-core)
+
 `NeuralNetworkService.constructNetwork(input: Int, hidden: List<Int>, output: Int)` method generates neural network with next
 params:
 ```
